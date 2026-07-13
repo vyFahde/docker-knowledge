@@ -1,5 +1,6 @@
 # Principais Pontos
 [[O que é uma imagem]]
+[[Ciclo de vida de um container]]
 
 ### **Sistema Operacional e Kernel**
   - O kernel atua como intermediário entre os programas em execução e o hardware físico.
