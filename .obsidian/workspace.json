@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo 2/Criação de imagens.md",
+                "file": "Módulo 3/Criando uma dockerfile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criação de imagens"
+              "title": "Criando uma dockerfile"
             }
           }
         ]
@@ -183,16 +183,18 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "7de59b237d5e6bd6",
+  "active": "c1b940a063cc60bf",
   "lastOpenFiles": [
-    "Módulo 2/Executando comando adicionais em containers rodando.md",
-    "Módulo 2/Criação de imagens.md",
-    "Módulo 2/Iniciando, finalizando e reiniciando um container.md",
-    "Módulo 1/O que é e por quê usar o Docker.md",
+    "Módulo 3",
+    "Módulo 3/Criação de imagens.md",
+    "Módulo 3/Criando uma dockerfile.md",
     "Módulo 2/Ciclo de vida de um container.md",
+    "Módulo 1/O que é uma imagem.md",
+    "Módulo 2/Iniciando, finalizando e reiniciando um container.md",
+    "Módulo 2/Executando comando adicionais em containers rodando.md",
+    "Módulo 1/O que é e por quê usar o Docker.md",
     "Módulo 1/O que é um container.md",
     "2026-07-13.md",
-    "Módulo 1/O que é uma imagem.md",
     "Módulo 2"
   ]
 }
