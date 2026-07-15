@@ -6,3 +6,4 @@ Uma **imagem** de container é um **snapshot** do sistema de arquivo que contém
 - Configurações e metadados que definem o ambiente do container.
 
 A imagem é uma **entidade estática** que, quando iniciada, gera um container em execução, isolado e consistente em qualquer ambiente onde seja utilizado.
+[[Criação de imagens]]
